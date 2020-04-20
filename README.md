@@ -1,4 +1,5 @@
-This is the First React project ==>TODOLIST
+This is my First React project. 
+Learned From Traversy Media.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
